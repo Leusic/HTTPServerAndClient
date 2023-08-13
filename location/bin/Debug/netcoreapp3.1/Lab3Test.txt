@@ -1,0 +1,36 @@
+22/02/2022 19:21:29.37 All tests completed: 3 passed, 1 advisory, 1 failed. 
+22/02/2022 19:54:06.02 All tests completed: 3 passed, 1 advisory, 1 failed. 
+22/02/2022 20:31:17.24 All tests completed: 3 passed, 1 advisory, 1 failed. 
+23/02/2022 13:45:42.14 All tests of location completed: 7 passed, 7 advisory, 6 failed (of 111 total). 
+25/02/2022 16:18:05.62 All tests of location completed: 7 passed, 7 advisory, 6 failed (of 111 total). 
+26/02/2022 12:05:10.12 All tests of location completed: 7 passed, 7 advisory, 6 failed (of 111 total). 
+26/02/2022 15:41:48.38 All tests of location completed: 7 passed, 7 advisory, 6 failed (of 111 total). 
+26/02/2022 18:11:31.94 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+26/02/2022 18:30:27.21 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+26/02/2022 20:14:54.39 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+26/02/2022 20:47:57.23 All tests of location completed: 16 passed, 4 advisory, 0 failed (of 111 total). 
+26/02/2022 21:03:54.69 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+26/02/2022 21:14:55.36 All tests of location completed: 16 passed, 4 advisory, 0 failed (of 111 total). 
+26/02/2022 21:26:45.05 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+26/02/2022 21:49:16.29 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+27/02/2022 14:38:15.62 All tests of location completed: 16 passed, 4 advisory, 0 failed (of 111 total). 
+27/02/2022 14:48:05.32 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+27/02/2022 15:12:51.20 All tests of location completed: 11 passed, 3 advisory, 6 failed (of 111 total). 
+27/02/2022 15:27:00.22 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+27/02/2022 15:59:37.41 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+27/02/2022 17:16:22.52 All tests of location completed: 11 passed, 3 advisory, 6 failed (of 111 total). 
+27/02/2022 17:45:08.78 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+27/02/2022 18:03:15.25 All tests of location completed: 17 passed, 2 advisory, 1 failed (of 111 total). 
+27/02/2022 18:19:06.30 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+27/02/2022 20:41:43.20 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+27/02/2022 20:51:32.12 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+27/02/2022 21:10:47.61 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+01/03/2022 16:04:03.44 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+01/03/2022 19:12:11.76 All tests of location completed: 12 passed, 7 advisory, 1 failed (of 111 total). 
+01/03/2022 19:49:04.08 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+01/03/2022 21:17:40.05 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+01/03/2022 22:31:57.27 All tests of location completed: 15 passed, 1 advisory, 4 failed (of 111 total). 
+01/03/2022 22:50:28.71 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+01/03/2022 23:36:08.60 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+02/03/2022 13:35:17.67 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+02/03/2022 15:37:00.64 All tests of location completed: 59 passed, 50 advisory, 0 failed (of 111 total). 

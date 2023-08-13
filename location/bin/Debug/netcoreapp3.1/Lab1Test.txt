@@ -1,0 +1,11 @@
+14/02/2022 14:54:51.14 All tests completed: 1 passed, 0 advisory, 1 failed. 
+14/02/2022 15:42:57.79 All tests of location completed: 2 passed, 1 advisory, 2 failed (of 28 total). 
+14/02/2022 16:08:14.53 All tests of location completed: 2 passed, 1 advisory, 2 failed (of 28 total). 
+14/02/2022 16:34:40.68 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+15/02/2022 15:37:45.75 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+15/02/2022 16:39:52.05 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+15/02/2022 17:30:20.49 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+15/02/2022 17:34:34.30 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+15/02/2022 18:30:52.18 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+15/02/2022 18:47:08.97 All tests of location completed: 2 passed, 1 advisory, 2 failed (of 28 total). 
+15/02/2022 18:49:50.58 All tests of location completed: 3 passed, 1 advisory, 1 failed (of 28 total). 

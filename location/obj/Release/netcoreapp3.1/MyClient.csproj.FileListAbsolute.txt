@@ -1,0 +1,12 @@
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\bin\Release\netcoreapp3.1\MyClient.exe
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\bin\Release\netcoreapp3.1\MyClient.deps.json
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\bin\Release\netcoreapp3.1\MyClient.runtimeconfig.json
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\bin\Release\netcoreapp3.1\MyClient.runtimeconfig.dev.json
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\bin\Release\netcoreapp3.1\MyClient.dll
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\bin\Release\netcoreapp3.1\MyClient.pdb
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\obj\Release\netcoreapp3.1\MyClient.AssemblyInfoInputs.cache
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\obj\Release\netcoreapp3.1\MyClient.AssemblyInfo.cs
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\obj\Release\netcoreapp3.1\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\obj\Release\netcoreapp3.1\MyClient.dll
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\obj\Release\netcoreapp3.1\MyClient.pdb
+C:\Users\Max Trotter\Documents\Y2T2 University\Networking and UI Design\MyClient\obj\Release\netcoreapp3.1\MyClient.genruntimeconfig.cache

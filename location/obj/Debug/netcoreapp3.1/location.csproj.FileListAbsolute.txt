@@ -1,0 +1,53 @@
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\bin\Debug\netcoreapp3.1\location.exe
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\bin\Debug\netcoreapp3.1\location.deps.json
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\bin\Debug\netcoreapp3.1\location.runtimeconfig.json
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\bin\Debug\netcoreapp3.1\location.runtimeconfig.dev.json
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\bin\Debug\netcoreapp3.1\location.dll
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\bin\Debug\netcoreapp3.1\location.pdb
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\obj\Debug\netcoreapp3.1\location.csprojAssemblyReference.cache
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\obj\Debug\netcoreapp3.1\location.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\obj\Debug\netcoreapp3.1\location.AssemblyInfo.cs
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\obj\Debug\netcoreapp3.1\location.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\obj\Debug\netcoreapp3.1\location.dll
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\obj\Debug\netcoreapp3.1\location.pdb
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\MyClient\obj\Debug\netcoreapp3.1\location.genruntimeconfig.cache
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.exe
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.deps.json
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.runtimeconfig.json
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.runtimeconfig.dev.json
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.dll
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.pdb
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.csprojAssemblyReference.cache
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.AssemblyInfo.cs
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.dll
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.pdb
+C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.genruntimeconfig.cache
+G:\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.exe
+G:\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.deps.json
+G:\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.runtimeconfig.json
+G:\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.runtimeconfig.dev.json
+G:\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.dll
+G:\NetworkingAndUIDesign\location\bin\Debug\netcoreapp3.1\location.pdb
+G:\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.csprojAssemblyReference.cache
+G:\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.AssemblyInfoInputs.cache
+G:\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.AssemblyInfo.cs
+G:\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.csproj.CoreCompileInputs.cache
+G:\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.dll
+G:\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.pdb
+G:\NetworkingAndUIDesign\location\obj\Debug\netcoreapp3.1\location.genruntimeconfig.cache
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\bin\Debug\netcoreapp3.1\location.exe
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\bin\Debug\netcoreapp3.1\location.deps.json
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\bin\Debug\netcoreapp3.1\location.runtimeconfig.json
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\bin\Debug\netcoreapp3.1\location.runtimeconfig.dev.json
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\bin\Debug\netcoreapp3.1\location.dll
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\bin\Debug\netcoreapp3.1\location.pdb
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\obj\Debug\netcoreapp3.1\location.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\obj\Debug\netcoreapp3.1\location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\obj\Debug\netcoreapp3.1\location.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\obj\Debug\netcoreapp3.1\location.AssemblyInfo.cs
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\obj\Debug\netcoreapp3.1\location.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\obj\Debug\netcoreapp3.1\location.dll
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\obj\Debug\netcoreapp3.1\location.pdb
+C:\Users\Max\Documents\University Backup\Networking and User Interface Design\ACW\ACW\location\obj\Debug\netcoreapp3.1\location.genruntimeconfig.cache

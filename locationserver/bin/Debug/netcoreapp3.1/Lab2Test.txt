@@ -1,0 +1,11 @@
+17/02/2022 17:29:12.56 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+17/02/2022 18:33:32.53 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+17/02/2022 20:04:50.51 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+17/02/2022 20:52:01.73 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+17/02/2022 20:59:02.96 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+17/02/2022 21:05:35.44 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 1 passed, 0 advisory, 7 failed (of 16 total). 
+17/02/2022 21:20:18.68 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 1 passed, 0 advisory, 7 failed (of 16 total). 
+17/02/2022 21:40:37.49 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 2 passed, 0 advisory, 6 failed (of 16 total). 
+17/02/2022 21:51:03.54 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 3 passed, 0 advisory, 5 failed (of 16 total). 
+17/02/2022 22:02:50.78 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+17/02/2022 22:20:40.50 All tests of C:\Users\Max\Documents\Y2T2Uni\NetworkingAndUIDesign\locationserver\bin\Debug\netcoreapp3.1 completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
